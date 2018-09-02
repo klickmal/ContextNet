@@ -1,0 +1,1 @@
+download cityscapes "gtFine_trainvaltest"
